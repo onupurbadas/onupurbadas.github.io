@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate | Quantative Consultant, ISSR@UMass Amherst.
+subtitle: PhD Candidate, Environmental and Resource Economics.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: web_pic.jpeg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>27E Machmer Hall</p>
     <p>240 Hicks Way</p>
@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hey!! I am Onupurba Das!! Welcome to my website! It's under construction but would be up soon :)
+I am a PhD candidate in the department of Resource Economics at UMass Amherst. My research interests lie at the intersection of environment, development and gender. My current work is looking at the impact of having women in local leadership positions on deforestation in rural India.
