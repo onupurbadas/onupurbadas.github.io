@@ -29,6 +29,8 @@ ADD Gemfile /srv/jekyll
 
 WORKDIR /srv/jekyll
 
+RUN gem install gsl
+
 # install jekyll and dependencies
 RUN gem install jekyll bundler
 
