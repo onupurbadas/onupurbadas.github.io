@@ -6,8 +6,8 @@ subtitle: Ph.D. Candidate, Environmental and Resource Economics.
 
 profile:
   align: right
-  image: web_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: profile_pic2.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>27E Machmer Hall</p>
     <p>240 Hicks Way</p>
@@ -18,8 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in Environmental Economics at the Department of Resource Economics at the University of Massachusetts Amherst. 
+My research interests span environment, development, and policy, with a focus on the intersections of environmental conservation, social inequality, and power dynamics.
 
-My research lie in environment, development and policy questions. I explore these topics through my work which is at the intersection of environmental conservation, social inequality and power relations. My research focuses on: i. how representation of historically marginalized groups in local institutions impacts the environment, ii. the conditions required to translate policies -- aimed at addressing unequal access to power - into on-ground changes and iii. how climate change driven rising temperatures may impact the mental well-being of vulnerable people. 
+To these ends, my work explores:
+    a. How the representation of historically marginalized groups in local institutions impact the environment.
+    b. The conditions necessary for translating policies aimed at addressing unequal power access into tangible outcomes.
+    c. The effects of climate change, particularly rising temperatures, on the mental well-being of vulnerable populations.
 
-I have three on-going projects, the first where I examine whether the presence of women in political leadership impacts the management of environmental resources, specifically local forest cover. In the second, I explore a similar question, focusing on the representation of oppressed castes. I also look at how the caste and gender positionalities interact and influence the local public goods. Thirdly, I focus on the question of how climate change driven increasing temperatures impact mental health, particularly in aging populations.
+I am currently engaged in three projects:
+    - Investigating the impact of women in political leadership on local forest management.
+    - Examining the influence of oppressed castes in leadership positions on local environmental and development outcomes. I also look at how the caste and gender positionalities interact and influence the local public goods.
+    - Analyzing how climate change-driven temperature increases affect mental health, particularly among aging populations.
