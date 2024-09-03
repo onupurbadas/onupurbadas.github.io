@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /research/
-description: Papers in progress.
+description: Research in progress...
 nav: true
 nav_order: 2
-#display_categories: [work, fun]
+display_categories: [Leadership , Mental Health ]
 horizontal: false
 ---
 
