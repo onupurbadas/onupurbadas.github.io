@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Onupurba
 middle_name:
 last_name: Das
@@ -50,7 +50,7 @@ rss_icon: true
 navbar_fixed: true
 footer_fixed: true
 search_enabled: false
-socials_in_search: true
+socials_in_search: false
 
 # Dimensions
 max_width: 930px
@@ -231,6 +231,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _not_used_but_storing_info
 keep_files:
   - CNAME
   - .nojekyll
