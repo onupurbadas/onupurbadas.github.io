@@ -2,7 +2,7 @@
 layout: page
 title: Representation of Women in Leadership and Change in Local Forests
 description: with background image
-img: assets/img/12.jpg
+#img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true

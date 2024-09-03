@@ -7,7 +7,7 @@ subtitle: Ph.D. Candidate, Environmental and Resource Economics.
 profile:
   align: right
   image: profile_pic2.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>27E Machmer Hall</p>
     <p>240 Hicks Way</p>
