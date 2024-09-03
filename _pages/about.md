@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Candidate, Environmental and Resource Economics.
 
@@ -9,9 +9,9 @@ profile:
   image: profile_pic2.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>27E Machmer Hall</p>
-    <p>240 Hicks Way</p>
-    <p>Amherst, MA, 01003</p>
+    <p>Ph.D. Candidate | Department of Reosurce Economics</p>
+    <p>Quantitative Consultant | ISSR</p>
+    <p>University of Massachusetts Amherst</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

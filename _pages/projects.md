@@ -4,8 +4,8 @@ title: Research
 permalink: /research/
 description: Papers in progress.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+#display_categories: [work, fun]
 horizontal: false
 ---
 
