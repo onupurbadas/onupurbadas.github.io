@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate, Environmental and Resource Economics.
 
 profile:
   align: right
-  image: profile_pic2.jpg
+  image: OD1.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Ph.D. Candidate | Department of Reosurce Economics</p>
