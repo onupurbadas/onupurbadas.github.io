@@ -1,97 +1,93 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Onupurba Das
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+---
+name: "Onupurba Das"
+role: "Ph.D. Candidate, Environmental Economics"
+email: "odas@umass.edu"
+homepage: "https://onupurbadas.github.io"
+location: "Department of Resource Economics, University of Massachusetts Amherst"
+phone: ""
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+education:
+  - degree: "Ph.D. Environmental Economics"
+    institution: "University of Massachusetts Amherst"
+    start_date: "2017"
+    end_date: "2025 (expected)"
+    location: "Amherst, MA"
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+  - degree: "M.Sc. Environmental Economics"
+    institution: "Madras School of Economics, Central University of Tamil Nadu"
+    start_date: "2015"
+    end_date: "2017"
+    location: "Chennai, India"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+  - degree: "B.A. Economics"
+    institution: "Madras Christian College, Madras University"
+    start_date: "2010"
+    end_date: "2013"
+    location: "Chennai, India"
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+fellowships:
+  - title: "Research Enhancement and Leadership (REAL) Fellowship"
+    organization: "Graduate School, University of Massachusetts Amherst"
+    start_date: "2017"
+    end_date: "2022"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+  - title: "Vijay Bhagavan Teaching Assistant of Distinction Award"
+    organization: "Department of Resource Economics, University of Massachusetts Amherst"
+    start_date: "2020"
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+  - title: "Summer Fellowship"
+    organization: "Department of Resource Economics, University of Massachusetts Amherst"
+    start_date: "2021"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+professional_experience:
+  - title: "Quantitative Methodology Consultant"
+    organization: "Institute of Social Science Research"
+    start_date: "2023"
+    end_date: "Present"
+    location: "University of Massachusetts Amherst"
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+  - title: "Econometrics Fellow and Data Science Fellow"
+    organization: "Quantitative & STATA Consultant"
+    start_date: "2023"
+    end_date: "Present"
+    location: "Amherst College"
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+research:
+  - title: "Caste Based Quotas in Politics and Deforestation in Rural India"
+    status: "Working Paper"
+
+  - title: "Women Leadership and Deforestation in Rural India"
+    status: "Working paper, with Jamie Mullins"
+
+  - title: "Impacts of Increasing Temperatures on Mental Health in India"
+    status: "Working paper, with Jamie Mullins & Kavita Sardana"
+
+teaching_experience:
+  - course: "Environmental Economics (Res-Ec 262)"
+    institution: "University Without Walls - Continuing & Professional Education"
+    terms: ["Summer 2022", "Summer 2020", "Summer 2019"]
+
+  - course: "Don’t Panic: A Guide to College, Economics and the World Beyond (Res-Ec 191)"
+    institution: "Social and Behavioral Sciences First Year Seminar"
+    terms: ["Fall 2023", "Fall 2022"]
+
+  - course: "Understanding Resource Economics (Res-Ec 191)"
+    institution: "Social and Behavioral Sciences First Year Seminar"
+    terms: ["Fall 2020", "Fall 2019"]
+
+references:
+  - name: "Dr. Jamie Mullins"
+    position: "Associate Professor"
+    institution: "University of Massachusetts Amherst"
+    email: "jmullins@umass.edu"
+
+  - name: "Dr. Bernie Morzuch"
+    position: "Professor"
+    institution: "University of Massachusetts Amherst"
+    email: "berniemorzuch@umass.edu"
+
+  - name: "Dr. Jessica Pearlman"
+    position: "Director of Research Methods Programs"
+    institution: "Institute of Social Science Research, University of Massachusetts Amherst"
+    email: "jpearlman@issr.umass.edu"
+---

@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Ph.D. Candidate | Department of Resource Economics</p>
-    <p>Quantitative Consultant | ISSR</p>
+    <p>Quantitative Consultant @ ISSR</p>
     <p>University of Massachusetts Amherst</p>
 
 news: false  # includes a list of news items
