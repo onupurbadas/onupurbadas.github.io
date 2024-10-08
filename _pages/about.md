@@ -9,7 +9,7 @@ profile:
   image: OD2crop.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Ph.D. Candidate | Department of Reosurce Economics</p>
+    <p>Ph.D. Candidate | Department of Resource Economics</p>
     <p>Quantitative Consultant | ISSR</p>
     <p>University of Massachusetts Amherst</p>
 
