@@ -2,30 +2,31 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate, Environmental and Resource Economics.
+subtitle: Ph.D. Candidate, Applied Economics.
 
 profile:
   align: right
   image: OD2crop.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Ph.D. Candidate | Department of Resource Economics</p>
-    <p>Quantitative Consultant @ ISSR</p>
+    <p>Ph.D. Candidate</p>
+    <p>Department of Resource Economics</p>
     <p>University of Massachusetts Amherst</p>
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My research interests span environment, development, and policy, with a focus on the intersections of environmental conservation, social inequality, and power dynamics.
+<p> I’m an applied economist working at the intersection of environment, development and social inequities. </p>
 
-To these ends, my current work explores:
-    a. How the representation of historically marginalized groups in local institutions impact the environment.
-    b. The conditions necessary for translating policies aimed at addressing unequal power access into tangible outcomes.
-    c. The effects of climate change, particularly rising temperatures, on the mental well-being of vulnerable populations.
+Two of my current projects explore how political representation for historically marginalized communities impacts development and the environment, particularly through the lenses of caste and gender in rural India.
+    
+The impact of political leadership of women in government 
+on local forest cover.
 
-I am currently engaged in three projects:
-    - Investigating the impact of women in political leadership on local forest management.
-    - Examining the influence of oppressed castes in leadership positions on local environmental and development outcomes. 
-    - Analyzing how climate change-driven temperature increases affect mental health, particularly among aging populations.
+The impact of oppressed castes in leadership positions 
+on local development as proxied by nightlight and 
+forest cover outcomes. 
+
+My other project is looking at the link between environmental conditions and mental wellbeing - particularly exploring how exposure to high temperatures and particulate matter links to self-reported mental healthin India.
