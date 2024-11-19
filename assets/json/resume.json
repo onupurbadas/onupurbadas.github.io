@@ -43,18 +43,16 @@
   "education": [
     {
       "institution": "Department of Resource Economics, University of Massachusetts Amherst",
-      "location": "Amherst, MA",
       "url": "https://www.umass.edu/resec/",
       "area": "Environmental Economics",
       "studyType": "Ph.D. Economics",
-      "startDate": "2025",
-      "endDate": "expected",
+      "startDate": "expected",
+      "endDate": "2025",
       "score": "",
       "courses": []
     },
     {
       "institution": "Madras School of Economics",
-      "location": "Chennai, India",
       "url": "https://www.mse.ac.in",
       "area": "Environmental Economics",
       "studyType": "M.Sc.",
@@ -65,7 +63,6 @@
     },
     {
       "institution": "Madras Christian College",
-      "location": "Chennai, India",
       "url": "",
       "area": "Economics",
       "studyType": "B.A.",
