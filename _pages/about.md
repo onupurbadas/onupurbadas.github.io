@@ -8,25 +8,24 @@ profile:
   align: right
   image: OD2crop.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Ph.D. Candidate</p>
-    <p>Department of Resource Economics</p>
-    <p>University of Massachusetts Amherst</p>
-
+  more_info:
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p> I’m an applied economist working at the intersection of environment, development and social inequities. </p>
+<section>
+  <p>I’m an <strong>applied micro-economist</strong> at UMass Amherst working at the intersection of <em>environment, development,</em> and <em>social inequities</em>. My research focuses on how <strong>political representation</strong> for historically marginalized communities impacts <strong>development</strong> outcomes, using measures like night time lights intensity and <strong>environmental</strong> outcomes like forest cover using VCF data.
+  </p>
 
-Two of my current projects explore how political representation for historically marginalized communities impacts development and the environment, particularly through the lenses of caste and gender in rural India.
-    
-The impact of political leadership of women in government 
-on local forest cover.
+  <p>Current projects include:</p>
+  <ul>
+    <li>How women's political leadership in local government affects forest conservation</li>
+    <li>The role of caste-based leadership in driving development and forest outcomes</li>
+  </ul>
 
-The impact of oppressed castes in leadership positions 
-on local development as proxied by nightlight and 
-forest cover outcomes. 
+  <p> Another completed project investigates the <strong>link between environmental conditions and mental wellbeing</strong>, focusing on high temperatures and exposure to particulate matter and it's impacts on self-reported mental health outcomes in India</p>
 
-My other project is looking at the link between environmental conditions and mental wellbeing - particularly exploring how exposure to high temperatures and particulate matter links to self-reported mental healthin India.
+  <p>Feel free to connect with me at odas@umass.edu</p>
+
+</section>
