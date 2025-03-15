@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Onupurba Das",
-    "label": "Ph.D. Candidate, Environmental Economics",
+    "": "Ph.D. Candidate, Economics",
     "image": "",
     "email": "odas@umass.edu",
     "phone": "",
@@ -25,11 +25,11 @@
   "work": [
     {
       "name": "Institute of Social Science Research, University of Massachusetts Amherst",
-      "position": "Quantitative Methodology Consultant with ISSR",
+      "position": "Quantitative Methodology Consultant",
       "url": "",
       "startDate": "2023",
       "endDate": "Present",
-      "summary": "Provide quantitative analysis and methodological support, and coding (primarily STATA) for social science research projects."
+      "summary": "Provide quantitative analysis, methodological guidance, and STATA support to graduate students and faculty for social science research projects."
     },
     {
       "name": "Department of Economics, Amherst College",
@@ -37,14 +37,13 @@
       "url": "",
       "startDate": "2023",
       "endDate": "Present",
-      "summary": "Serve as a consultant for quantitative research, specializing in STATA and data science."
+      "summary": "Consultant for quantitative research, specializing in causal inference methods and STATA."
     }
   ],
   "education": [
     {
       "institution": "Department of Resource Economics, University of Massachusetts Amherst",
       "url": "https://www.umass.edu/resec/",
-      "area": "Environmental Economics",
       "studyType": "Ph.D. Economics",
       "startDate": "expected",
       "endDate": "2025",
@@ -52,10 +51,9 @@
       "courses": []
     },
     {
-      "institution": "Madras School of Economics",
+      "institution": "Madras School of Economics, Central University of Tamil Nadu, India",
       "url": "https://www.mse.ac.in",
-      "area": "Environmental Economics",
-      "studyType": "M.Sc.",
+      "studyType": "M.Sc. Economics",
       "startDate": "2015",
       "endDate": "2017",
       "score": "",
@@ -63,9 +61,8 @@
     },
     {
       "institution": "Madras Christian College",
-      "url": "",
-      "area": "Economics",
-      "studyType": "B.A.",
+      "url": "https://mcc.edu.in/economics/",
+      "studyType": "B.A. Economics",
       "startDate": "2010",
       "endDate": "2013",
       "score": "",
@@ -82,12 +79,6 @@
     {
       "title": "Vijay Bhagavan Teaching Assistant of Distinction Award",
       "date": "2020",
-      "awarder": "Department of Resource Economics, University of Massachusetts Amherst",
-      "summary": ""
-    },
-    {
-      "title": "Summer Fellowship",
-      "date": "2021",
       "awarder": "Department of Resource Economics, University of Massachusetts Amherst",
       "summary": ""
     }
@@ -109,6 +100,7 @@
   "references": [
     {
       "name": "Dr. Jamie Mullins",
+      "url": "https://people.umass.edu/jmullins/index.html",
       "position": "Associate Professor",
       "institution": "University of Massachusetts Amherst",
       "email": "jmullins@umass.edu"

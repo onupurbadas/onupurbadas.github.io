@@ -40,13 +40,13 @@ fellowships:
     start_date: "2021"
 
 professional_experience:
-  - title: "Quantitative Methodology Consultant"
+  - title: "Quantitative Methodology Consultant TRIAL"
     organization: "Institute of Social Science Research"
     start_date: "2023"
     end_date: "Present"
     location: "University of Massachusetts Amherst"
 
-  - title: "Econometrics Fellow and Data Science Fellow"
+  - title: "Econometrics and Data Science Fellow"
     organization: "Quantitative & STATA Consultant"
     start_date: "2023"
     end_date: "Present"
