@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate, Applied Economics.
+subtitle: Ph.D., Economics, University of Massachusetts-Amherst.
 
 profile:
   align: right
@@ -26,6 +26,6 @@ social: false  # includes social icons at the bottom of the page
 
   <p> Another completed project investigates the <strong>link between environmental conditions and mental wellbeing</strong>, focusing on high temperatures and exposure to particulate matter and it's impacts on self-reported mental health outcomes in India</p>
 
-  <p>Feel free to connect with me at odas@umass.edu</p>
+  <p>Feel free to connect with me at <a href="mailto:odas@umass.edu">odas@umass.edu</a></p>
 
 </section>
