@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D., Economics, University of Massachusetts-Amherst.
+subtitle: Ph.D. Economics, University of Massachusetts-Amherst.
 
 profile:
   align: right
