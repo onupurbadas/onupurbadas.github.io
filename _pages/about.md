@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Economics, University of Massachusetts-Amherst.
+subtitle: 
 
 profile:
   align: right
@@ -15,17 +15,16 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <section>
-  <p>I’m an <strong>applied micro-economist</strong> at UMass Amherst working at the intersection of <em>environment, development,</em> and <em>social inequities</em>. My research focuses on how <strong>political representation</strong> for historically marginalized communities impacts <strong>development</strong> outcomes, using measures like night time lights intensity and <strong>environmental</strong> outcomes like forest cover using VCF data.
+  <p> Does shifting power to historically excluded groups transform environmental governance from extraction to conservation? This is one of the central questions of my current research.
+  I think about the interdependent relationship between humans and their environments, both how we impact the ecological systems around us and how we are in turn impacted by the worsening climate crisis, and especially how this is shaped by the social hierarchies in our world. I also enjoy teaching about economics and the environment by encouraging my students to look at our world with curiousity, with an understanding and sympathy with our interactions and roles in it but always with a critical lens. 
   </p>
 
-  <p>Current projects include:</p>
-  <ul>
-    <li>How women's political leadership in local government affects forest conservation</li>
-    <li>The role of caste-based leadership in driving development and forest outcomes</li>
-  </ul>
+  <ol>
+  <li> To learn more about my research <a href="https://onupurbadas.github.io/research/">Click Here</a> </li>
+  <li> To learn more about my approaches to teaching <a href="https://onupurbadas.github.io/teaching/">Click Here</a></li>
+  </ol>
 
-  <p> Another completed project investigates the <strong>link between environmental conditions and mental wellbeing</strong>, focusing on high temperatures and exposure to particulate matter and it's impacts on self-reported mental health outcomes in India</p>
 
-  <p>Feel free to connect with me at <a href="mailto:odas@umass.edu">odas@umass.edu</a></p>
+  
 
 </section>
