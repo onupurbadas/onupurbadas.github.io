@@ -8,7 +8,7 @@ profile:
   align: right
   image: OD2crop.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Ph.D. Candidate <br> University of Massachusetts-Amherst <br> <i class="fas fa-envelope"></i> <a href="mailto:odas@umass.edu">odas@umass.edu</a> <br> <i class="fas fa-file-alt"> <a href="https://onupurbadas.github.io/assets/pdf/Onupurba_Das_CV_2025.pdf" target="_blank">Download CV</a>
+  more_info: Onupurba Das <br> Ph.D. Candidate, Department of Resource Economics <br> University of Massachusetts-Amherst <br> <i class="fas fa-envelope"></i> <a href="mailto:odas@umass.edu">odas@umass.edu</a> <br> <i class="fas fa-file-alt"></i> <a href="https://onupurbadas.github.io/assets/pdf/Onupurba_Das_CV_2025.pdf" target="_blank">Download CV</a>
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -28,14 +28,14 @@ social: false  # includes social icons at the bottom of the page
 
 <section>
 <p>
-  I’m a Ph.D. candidate in economics at UMass Amherst, advised by <a href="https://people.umass.edu/jmullins/index.html"><strong>Jamie T. Mullins</strong></a>. My research sits at the intersection of <strong>environment, development, and inequality</strong>. I integrate satellite-based environmental data and GIS methods with administrative records and large-scale survey datasets to examine spatial patterns in resource governance and economic activity.
+  I’m a Ph.D. candidate in economics at UMass Amherst, advised by <a href="https://people.umass.edu/jmullins/index.html">Jamie T. Mullins</a>. My research sits at the intersection of <strong>environment, development, and inequality</strong>. I integrate satellite-based environmental data and GIS methods with administrative records and large-scale survey datasets to examine spatial patterns in resource governance and economic activity.
 </p>
 
 <p>
-  I’m affiliated with the <a href="https://www.umass.edu/social-science-research/"><strong>Institute of Social Science Research</strong></a> as a <em>Quantitative Methods Consultant</em>, where I support research projects across disciplines and teach Stata workshops. 
+  I’m affiliated with the <a href="https://www.umass.edu/social-science-research/">Institute of Social Science Research</a> as a <em>Quantitative Methods Consultant</em>, where I support research projects across disciplines and teach Stata workshops. 
 </p>
 <p>
-  I have experience working as the <em>Econometrics and Data Science Fellow</em> at <a href="https://www.amherst.edu/academiclife/departments/economics"><strong>Amherst College's Economics Department</strong></a> where I have mentored undergraduate economics students through theses work.
+  I have experience working as the <em>Econometrics and Data Science Fellow</em> at <a href="https://www.amherst.edu/academiclife/departments/economics">Amherst College's Economics Department</a> where I have mentored undergraduate economics students through theses work.
 </p>
 </section>
 
