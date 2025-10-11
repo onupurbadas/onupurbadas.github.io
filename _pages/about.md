@@ -36,10 +36,10 @@ social: false  # includes social icons at the bottom of the page
 </p>
 
 <p>
-  I’m affiliated with the <a href="https://www.umass.edu/social-science-research/"><strong>Institute of Social Science Research</strong></a> as a <em>Quantitative Methods Consultant</em>, where I support research projects across disciplines by applying statistical and econometric techniques, using Stata, and regularly teaching workshops on data analysis and applied methods. 
+  I’m affiliated with the <a href="https://www.umass.edu/social-science-research/"><strong>Institute of Social Science Research</strong></a> as a <em>Quantitative Methods Consultant</em>, where I support research projects across disciplines and teach Stata workshops. 
 </p>
 <p>
-  I have experience working as the <em>Econometrics and Data Science Fellow</em> at <a href="https://www.amherst.edu/academiclife/departments/economics"><strong>Amherst College's Economics Department</strong></a> where I mentored undergraduate economics students through every stage of their honors theses, complementing faculty advising with individualized support on quantitative methods, econometrics, and Stata.
+  I have experience working as the <em>Econometrics and Data Science Fellow</em> at <a href="https://www.amherst.edu/academiclife/departments/economics"><strong>Amherst College's Economics Department</strong></a> where I have mentored undergraduate economics students through theses work.
 </p>
 </section>
 
