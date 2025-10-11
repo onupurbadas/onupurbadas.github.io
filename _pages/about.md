@@ -10,21 +10,37 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: Ph.D. Candidate <br> University of Massachusetts-Amherst <br> <a href="mailto:odas@umass.edu">odas@umass.edu</a>
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
 <section>
-  <p> Does shifting power to historically excluded groups transform environmental governance from extraction to conservation? This is one of the central questions of my current research.
-  I think about the interdependent relationship between humans and their environments, both how we impact the ecological systems around us and how we are in turn impacted by the worsening climate crisis, and especially how this is shaped by the social hierarchies in our world. I also enjoy teaching about economics and the environment by encouraging my students to look at our world with curiousity, with an understanding and sympathy with our interactions and roles in it but always with a critical lens. 
+  <p>
+    <strong>Does shifting power to historically excluded groups transform environmental governance from extraction to conservation?</strong> This is one of the central questions driving my current research.
+
+    I think about the <strong>interdependent relationship between humans and their environments</strong>: how we shape the ecological systems around us, how we are shaped in turn by the worsening climate crisis, and how these dynamics are impacted by the social hierarchies we live within.
+
+    I also enjoy teaching about economics and the environment by encouraging students to approach the world with curiosity, with empathy for our roles and interactions within it, and always through a critical lens.
   </p>
+</section>
+
+<section>
+<p>
+  I’m a Ph.D. candidate in economics at UMass Amherst, advised by <a href="https://people.umass.edu/jmullins/index.html">Jamie T. Mullins</a>. My research sits at the intersection of <strong>environment, development, and inequality</strong>. I integrate satellite-based environmental data and GIS methods with administrative records and large-scale survey datasets to examine spatial patterns in resource governance and economic activity.
+</p>
+
+<p>
+  I’m affiliated with the <a href="https://www.umass.edu/social-science-research/">Institute of Social Science Research</a> as a <em>Quantitative Methods Consultant</em>, where I support research projects across disciplines by applying statistical and econometric techniques, using Stata, and regularly teaching workshops on data analysis and applied methods. 
+</p>
+<p>
+  I have experience working as the <em>Econometrics and Data Science Fellow</em> at <a href="https://www.amherst.edu/academiclife/departments/economics">Amherst College's Economics Department</a> where I mentored undergraduate economics students through every stage of their honors theses, complementing faculty advising with individualized support on quantitative methods, econometrics, and Stata.
+</p>
+</section>
+
+<section>
 
   <ol>
-  <li> To learn more about my research <a href="https://onupurbadas.github.io/research/">Click Here</a> </li>
-  <li> To learn more about my approaches to teaching <a href="https://onupurbadas.github.io/teaching/">Click Here</a></li>
+  <li> To learn more about my research: <a href="https://onupurbadas.github.io/research/">Click Here</a> </li>
+  <li> To learn more about my approach to teaching: <a href="https://onupurbadas.github.io/teaching/">Click Here</a></li>
   </ol>
-
-
-  
-
 </section>
