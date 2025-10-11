@@ -11,8 +11,8 @@ profile:
   more_info: more_info: |
   Ph.D. Candidate <br>
   University of Massachusetts-Amherst <br>
-  &#9993; <a href="mailto:odas@umass.edu">odas@umass.edu</a> <br>
-  &#128196; <a href="https://onupurbadas.github.io/assets/pdf/Onupurba_Das_CV_2025.pdf" target="_blank">Download CV</a>
+   <a href="mailto:odas@umass.edu">odas@umass.edu</a> <br>
+   <a href="https://onupurbadas.github.io/assets/pdf/Onupurba_Das_CV_2025.pdf" target="_blank">Download CV</a>
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
