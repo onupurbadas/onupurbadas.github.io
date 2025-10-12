@@ -6,9 +6,6 @@ description:
 nav: true
 nav_order: 3
 ---
-
-
-<h2>Teaching</h2>
 <p>
   My teaching is grounded in the belief that classrooms should be spaces for curiosity, critique, and connection. My approach centers care, clarity, and a commitment to helping students think for themselves. I aim to make a lasting impact on my students’ academic and personal development.
 </p>
