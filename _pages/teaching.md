@@ -40,7 +40,7 @@ nav_order: 3
 </ul>
 
 <h3>Workshops Taught</h3>
-<ul class="compact-list">
+<ul>
   <li><strong>Introduction to Stata</strong> — Introductory level</li>
   <li><strong>Data Management in Stata with Multiple Datasets</strong> — Intermediate level</li>
   <li><strong>Say it with a Graph in Stata</strong> — Intermediate level</li>
