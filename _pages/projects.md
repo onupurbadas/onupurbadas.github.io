@@ -18,9 +18,9 @@ horizontal: false
 <!-- _pages/projects.md -->
 <!-- <div class="publications">
 
-{% bibliography %}
+<!-- {% bibliography %} -->
 
-</div> -->
+<!-- </div> --> -->
 ### Current Papers
 
 <div class="publications">
