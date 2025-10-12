@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: 
 nav: true
-nav_order: 2
+nav_order: 1
 profile:
   align: right
   image: OD2crop.jpg
