@@ -8,62 +8,43 @@ nav_order: 3
 ---
 
 
-<h3>Teaching Associate</h3>
-<ul>
-  <li>
-    <strong>Math Camp for ECON 751</strong> (2023–2024): Summer math preparation for incoming graduate students.
-  </li>
-<br>
-  <li>
-    <strong>Don’t Panic: A Guide to College, Economics, and the World Beyond (Res-Ec 191)</strong> (2022–2023): Social and Behavioral Sciences First-Year Seminar.
-  </li>
-<br>
-  <li>
-    <strong>Environmental Economics (Res-Ec 262)</strong> (Online, Summers 2019–2022): Introduction to environmental economic principles through the University Without Walls.
-  </li>
-<br>
-  <li>
-    <strong>Intermediate Statistics for Business and Economics (Res-Ec 213)</strong> (2020–2021): Led discussion sessions for core statistics.
-  </li>
-<br>
-  <li>
-    <strong>Understanding Resource Economics (Res-Ec 191)</strong> (2019–2020): Social and Behavioral Sciences First-Year Seminar.
-  </li>
+<h2>Teaching</h2>
+<p>
+  My teaching is grounded in the belief that classrooms should be spaces for curiosity, critique, and connection. My approach centers care, clarity, and a commitment to helping students think for themselves. I aim to make a lasting impact on my students’ academic and personal development.
+</p>
 
-</ul>
-<h3>Undergraduate Supervision</h3>
+<h3>Instructor</h3>
 <ul>
-  <li>
-    <strong>Supervisor of Undergraduate TAs</strong> (2019–2022): Supervised responsibilities of 5 undergraduate TAs for the First-Year Seminar.
-  </li>
+  <li><strong>Math Camp for ECON 751</strong> — Summer prep for incoming graduate students</li>
+  <li><strong>Don’t Panic: A Guide to College, Economics, and the World Beyond (Res-Ec 191)</strong> — First-Year Seminar</li>
+  <li><strong>Environmental Economics (Res-Ec 262)</strong> (Online) — University Without Walls</li>
+  
+  <li><strong>Understanding Resource Economics (Res-Ec 191)</strong> — First-Year Seminar</li>
 </ul>
+
 <h3>Teaching Assistant</h3>
 <ul>
-  <li>
-    <strong>Econometric Methods (Res-Ec 702)</strong> (Spring 2023): Supported advanced econometric methods course.
-  </li>
-  <br>
-  <li>
-    <strong>Probability Theory and Statistical Inference (Res-Ec 701)</strong> (2019–2022): Assisted with graduate-level statistics and probability theory.
-  </li>
-  <br>
-  <li>
-    <strong>Cost Benefit Analysis (Res-Ec 471)</strong> (Spring 2023): Helped students apply cost-benefit frameworks to real-world scenarios.
-  </li>
-  <br>
-  <li>
-    <strong>Quantitative Methods in Applied Economics (Res-Ec 313)</strong> (2017–2018): Assisted with quantitative methods for undergraduates.
-  </li>
-  <br>
-  <li>
-    <strong>Environmental Economics (Res-Ec 262)</strong> (Spring 2022): Supported undergraduate environmental economics course.
-  </li>
-  <br>
-  <li>
-    <strong>Intermediate Statistics for Business and Economics (Res-Ec 213)</strong> (2020–2021): Provided support for undergraduate statistics.
-  </li>
-  <br>
-  <li>
-    <strong>Computing: Foundations to Frontiers (Res-Ec 112)</strong> (Fall 2020): Helped students learn foundational computing techniques.
-  </li>
+  <li><strong>Intermediate Statistics (Res-Ec 213)</strong> — Led discussion sessions</li>
+  <li><strong>Econometric Methods (Res-Ec 702)</strong> </li>
+  <li><strong>Probability Theory & Statistical Inference (Res-Ec 701)</strong> </li>
+  <li><strong>Cost Benefit Analysis (Res-Ec 471)</strong></li>
+  <li><strong>Quantitative Methods (Res-Ec 313)</strong> </li>
+  <li><strong>Environmental Economics (Res-Ec 262)</strong> </li>
+  <li><strong>Intermediate Statistics (Res-Ec 213)</strong> </li>
+  <li><strong>Computing: Foundations to Frontiers (Res-Ec 112)</strong> </li>
 </ul>
+
+<h3>Mentorship & Supervision</h3>
+<ul>
+  <li><strong>Supervisor of Undergraduate TAs</strong> — Oversaw 5 TAs for First-Year Seminar</li>
+</ul>
+
+<h3>Workshops Taught</h3>
+<ul class="compact-list">
+  <li><strong>Introduction to Stata</strong> — Introductory level</li>
+  <li><strong>Data Management in Stata with Multiple Datasets</strong> — Intermediate level</li>
+  <li><strong>Say it with a Graph in Stata</strong> — Intermediate level</li>
+  <li><strong>Loops and Macros with Stata (Advanced Data Management)</strong> — Advanced level</li>
+  <li><strong>Stata for Research: Organize Your Workflow</strong> — Intermediate level</li>
+</ul>
+

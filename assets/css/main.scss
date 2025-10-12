@@ -22,4 +22,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons.scss",
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
+  .compact-list li {
+  margin-bottom: 0.3em; // or try 0.2em for tighter spacing
+}
 ;
