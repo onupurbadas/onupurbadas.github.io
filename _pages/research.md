@@ -21,7 +21,7 @@ horizontal: false
 
 <p><strong>Current Papers</strong></p>
 
-<p><em>Job Market Paper</em> : <strong>Political Representation, Forest Cover, and Development in Rural India</strong></p>
+<p><em>Job Market Paper</em> : <strong>Political Representation, Forest Cover, and Development in Rural India</strong> (2025)</p>
 <p>
  <a href="javascript:void(0);" onclick="toggleAbstract('abstract1')">
     <i class="fas fa-align-left"></i> Short Abstract</a> |
