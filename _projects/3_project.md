@@ -2,13 +2,11 @@
 layout: page
 title: Political Representation, Forest Cover, and Development in Rural India
 description: Caste-based leadership and its impact on forest cover and development in Karnataka
-img: assets/img/1990_and_change_2014_VCF.png  # Replace with a relevant image
+img: assets/img/forest.png
 importance: 1
 category: research
 permalink: /projects/representation-and-conservation
 ---
-
-<h1>Political Representation, Forest Cover, and Development in Rural India</h1>
 
 <p>This paper investigates how political representation for historically marginalized communities—specifically Scheduled Castes (SCs) and Scheduled Tribes (STs)—shapes local economic activity and environmental stewardship in rural India.</p>
 
