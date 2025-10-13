@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Political Representation, Forest Cover, and Development in Rural India
-description: Caste-based leadership and its impact on forest cover and development in Karnataka
+description: 
 img: assets/img/forest.png
 importance: 1
 category: research

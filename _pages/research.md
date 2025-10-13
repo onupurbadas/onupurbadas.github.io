@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 description: 
-nav: true
+nav: false
 nav_order: 2
 display_categories: [research]
 horizontal: false
@@ -16,14 +16,6 @@ horizontal: false
   </ol>
 
   <p> I continue to explore environmental justice in the context of local environmental governance. Broadly, I care about how environmental, social, and economic systems interact to shape well-being and inequality. Looking ahead, I aim to explore how environmental stressors affect mental health, how institutional norms shape behavior (especially in economics), and how global consumerism drives environmental harm. </p>
-
-{% assign categorized_projects = site.projects | where: "category", "research" %}
-{% assign sorted_projects = categorized_projects | sort: "importance" %}
-<div class="row row-cols-1 row-cols-md-3">
-  {% for project in sorted_projects %}
-    {% include projects.liquid %}
-  {% endfor %}
-</div>
 
 <h3>Current Papers</h3>
 
@@ -86,6 +78,13 @@ horizontal: false
 <h4>Recognition and Reward in Economics</h4>
 <p><strong> with <a href="https://umanitoba.ca/arts/arpita-biswas" target="_blank">Arpita Biswas</a> (2025)</strong></p>
 
+{% assign categorized_projects = site.projects | where: "category", "research" %}
+{% assign sorted_projects = categorized_projects | sort: "importance" %}
+<div class="row row-cols-1 row-cols-md-3">
+  {% for project in sorted_projects %}
+    {% include projects.liquid %}
+  {% endfor %}
+</div>
 
 <script>
   function toggleAbstract(id) {
