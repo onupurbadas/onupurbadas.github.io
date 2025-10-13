@@ -19,10 +19,10 @@ horizontal: false
 
 <hr style="margin: 2em 0;">
 
-<h3>Current Papers</h3>
+<p><strong>Current Papers</strong></p>
 
-<h4>Job Market Paper</h4>
-<h4><strong>Political Representation, Forest Cover, and Development in Rural India</strong></h4>
+<p><em>Job Market Paper</em></p>
+<p><strong>Political Representation, Forest Cover, and Development in Rural India</strong></p>
 
 <p>
   <a href="javascript:void(0);" onclick="toggleAbstract('abstract1')">
@@ -38,7 +38,7 @@ horizontal: false
   <p>This paper examines how political representation for historically marginalized communities shapes local economic activity and environmental stewardship. Leveraging the quasi‑random rotation of chairperson reservations for Scheduled Castes (SCs) and Scheduled Tribes (STs) across 5,000 village councils in Karnataka, India, over five election cycles (1994–2010), I estimate causal effects on satellite‑measured night‑time lights and forest cover. SC/ST-led councils see higher local economic activity but lower forest cover, with larger effects under ST leadership. These patterns reveal trade‑offs between development and conservation and point to the need for policies that enable marginalized leaders to pursue development without depleting the natural resources their communities depend on.</p>
 </div>
 
-<h4>Women's Leadership and Deforestation in Rural India</h4>
+<p><strong>Women's Leadership and Deforestation in Rural India</p></strong>
 <p><strong>with <a href="https://people.umass.edu/jmullins/index.html" target="_blank">Jamie T. Mullins</a> (2025)</strong></p>
 
 <p>
@@ -54,7 +54,7 @@ horizontal: false
   <p>This paper examines the impact of women’s leadership in village councils on forest conservation in rural India. Using randomized reservations for women chairs and vice-chairs in Karnataka's village councils from 1992 to 2010, we analyze changes in forest cover using satellite data. Forest cover shows the greatest improvement when both positions are held by women over multiple election terms, emphasizing the importance of sustained leadership and multiple positions of power. However, such instances occur less frequently than expected under randomization, raising questions about structural and societal barriers to real power transfer.</p>
 </div>
 
-<h4>Temperature, Particulate Matter, and Mental Health in India</h4>
+<p><strong>Temperature, Particulate Matter, and Mental Health in India</p></strong>
 <p><strong>with <a href="https://www.ashoka.edu.in/profile/kavita-sardana/" target="_blank">Kavita Sardana</a> and <a href="https://people.umass.edu/jmullins/index.html" target="_blank">Jamie T. Mullins</a> (2024)</strong></p>
 
 <p>
@@ -72,12 +72,12 @@ horizontal: false
 
 <hr style="margin: 2em 0;">
 
-<h3>Working Papers</h3>
+<p><strong>Working Papers</p></strong>
 
-<h4>Impact of Pneumonia Type on Mortality, Morbidity, and Resource Use in U.S. Hospitalized Patients</h4>
+<p><strong>Impact of Pneumonia Type on Mortality, Morbidity, and Resource Use in U.S. Hospitalized Patients</p></strong>
 <p><strong>with <a href="https://www.umass.edu/nursing/about/directory/karen-giuliano" target="_blank">Karen Giuliano</a>, <a href="https://www.csus.edu/faculty/b/dibaker/" target="_blank">Dian Baker</a> and <a href="https://www.umass.edu/social-science-research/about/directory/jessica-pearlman" target="_blank"> Jessica Pearlman</a></strong></p>
 
-<h4>Recognition and Reward in Economics</h4>
+<p><strong>Recognition and Reward in Economics</p></strong>
 <p><strong> with <a href="https://umanitoba.ca/arts/arpita-biswas" target="_blank">Arpita Biswas</a> (2025)</strong></p>
 
 <script>
