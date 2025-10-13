@@ -19,5 +19,5 @@ horizontal: false
 
 <p><strong>Political Representation, Forest Cover, and Development in Rural India</strong></p>
 
-<p>This paper examines how political representation for historically marginalized communities shapes local economic activity and environmental stewardship. Leveraging the quasi‑random rotation of chairperson reservations for Scheduled Castes (SCs) and Scheduled Tribes (STs) across 5,000 village councils in Karnataka, India, over five election cycles (1994–2010), I estimate causal effects on satellite‑measured night‑time lights and forest cover. </p>
-<p><a href="/projects/representation-and-conservation">Read more →</a></p>
+<p>This paper examines how political representation for historically marginalized communities shapes local economic activity and environmental stewardship. Leveraging the quasi‑random rotation of chairperson reservations for Scheduled Castes (SCs) and Scheduled Tribes (STs) across 5,000 village councils in Karnataka, India, over five election cycles (1994–2010), I estimate causal effects on satellite‑measured night‑time lights and forest cover. SC/ST-led councils see higher local economic activity but lower forest cover, with larger effects under ST leadership. These patterns reveal trade‑offs between development and conservation and point to the need for policies that enable marginalized leaders to pursue development without depleting the natural resources their communities depend on. </p>
+<p><a href="/projects/representation-and-conservation">Read more →</a></p> 
