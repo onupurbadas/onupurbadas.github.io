@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 description: 
-nav: false
+nav: true
 nav_order: 2
 display_categories: [research]
 horizontal: false
@@ -23,12 +23,12 @@ horizontal: false
 <h4><strong>Political Representation, Forest Cover, and Development in Rural India</strong></h4>
 
 <p>
+  <a href="javascript:void(0);" onclick="toggleAbstract('abstract1')">
+    <i class="fas fa-align-left"></i> Short Abstract
+  </a> |
   <a href="/projects/representation-and-conservation">Read more →</a> |
   <a href="https://onupurbadas.github.io/assets/pdf/caste_development_and_forests_draft_onupurba_das.pdf" target="_blank">
     <i class="fas fa-file-pdf" title="Download PDF"></i>
-  </a> |
-  <a href="javascript:void(0);" onclick="toggleAbstract('abstract1')">
-    <i class="fas fa-align-left"></i> Short Abstract
   </a>
 </p>
 
@@ -40,12 +40,12 @@ horizontal: false
 <p><strong>with <a href="https://people.umass.edu/jmullins/index.html" target="_blank">Jamie T. Mullins</a> (2025)</strong></p>
 
 <p>
-  <a href="https://onupurbadas.github.io/assets/pdf/women_and_forests_draft_onupurba_das.pdf" target="_blank">
-    <i class="fas fa-file-pdf" title="Download PDF"></i>
-  </a> |
   <a href="javascript:void(0);" onclick="toggleAbstract('abstract2')">
     <i class="fas fa-align-left"></i> Short Abstract
-  </a>
+  </a> |
+  <a href="https://onupurbadas.github.io/assets/pdf/women_and_forests_draft_onupurba_das.pdf" target="_blank">
+    <i class="fas fa-file-pdf" title="Download PDF"></i>
+  </a> 
 </p>
 
 <div id="abstract2" style="display: none; margin-top: 0.5em;">
@@ -56,12 +56,12 @@ horizontal: false
 <p><strong>with <a href="https://www.ashoka.edu.in/profile/kavita-sardana/" target="_blank">Kavita Sardana</a> and <a href="https://people.umass.edu/jmullins/index.html" target="_blank">Jamie T. Mullins</a> (2024)</strong></p>
 
 <p>
-  <a href="https://onupurbadas.github.io/assets/pdf/Temperature_PM_and_Mental_Health_in_India_onupurba_das.pdf" target="_blank">
-    <i class="fas fa-file-pdf" title="Download PDF"></i>
-  </a> |
   <a href="javascript:void(0);" onclick="toggleAbstract('abstract3')">
     <i class="fas fa-align-left"></i> Short Abstract
-  </a>
+  </a> |
+  <a href="https://onupurbadas.github.io/assets/pdf/Temperature_PM_and_Mental_Health_in_India_onupurba_das.pdf" target="_blank">
+    <i class="fas fa-file-pdf" title="Download PDF"></i>
+  </a> 
 </p>
 
 <div id="abstract3" style="display: none; margin-top: 0.5em;">
@@ -77,14 +77,6 @@ horizontal: false
 
 <h4>Recognition and Reward in Economics</h4>
 <p><strong> with <a href="https://umanitoba.ca/arts/arpita-biswas" target="_blank">Arpita Biswas</a> (2025)</strong></p>
-
-{% assign categorized_projects = site.projects | where: "category", "research" %}
-{% assign sorted_projects = categorized_projects | sort: "importance" %}
-<div class="row row-cols-1 row-cols-md-3">
-  {% for project in sorted_projects %}
-    {% include projects.liquid %}
-  {% endfor %}
-</div>
 
 <script>
   function toggleAbstract(id) {

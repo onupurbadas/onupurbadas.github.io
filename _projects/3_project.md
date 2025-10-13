@@ -11,7 +11,7 @@ permalink: /projects/representation-and-conservation
 <p>This paper investigates how political representation for historically marginalized communities—specifically Scheduled Castes (SCs) and Scheduled Tribes (STs)—shapes local economic activity and environmental stewardship in rural India.</p>
 
 <h3>Latest Draft</h3>
-<p><a href="/caste_development_and_forests_draft_onupurba_das.pdf">Download full paper (PDF)</a></p>
+<p><a href="https://onupurbadas.github.io/assets/pdf/caste_development_and_forests_draft_onupurba_das.pdf">Download full paper (PDF)</a></p>
 
 <h3>Background</h3>
 <p>The 1992 constitutional amendment introduced electoral quotas for oppressed castes in village councils (Gram Panchayats), creating a natural experiment in decentralized governance. These reforms aimed to correct historical injustices, but their long-term impact on environmental and economic outcomes remains underexplored.</p>
