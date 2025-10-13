@@ -64,7 +64,7 @@ horizontal: false
 
 <hr style="margin: 2em 0;">
 
-<p><strong>Working Papers</strong></p>
+<p><strong>Working Papers</strong> - Drafts coming soon</p>
 
 <p><strong>Impact of Pneumonia Type on Mortality, Morbidity, and Resource Use in U.S. Hospitalized Patients</strong> with <a href="https://www.umass.edu/nursing/about/directory/karen-giuliano" target="_blank">Karen Giuliano</a>, <a href="https://www.csus.edu/faculty/b/dibaker/" target="_blank">Dian Baker</a> and <a href="https://www.umass.edu/social-science-research/about/directory/jessica-pearlman" target="_blank"> Jessica Pearlman</a></p>
 
