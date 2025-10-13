@@ -10,6 +10,9 @@ permalink: /projects/representation-and-conservation
 
 <p>This paper investigates how political representation for historically marginalized communities—specifically Scheduled Castes (SCs) and Scheduled Tribes (STs)—shapes local economic activity and environmental stewardship in rural India.</p>
 
+<h3>Latest Draft</h3>
+<p><a href="/caste_development_and_forests_draft_onupurba_das.pdf">Download full paper (PDF)</a></p>
+
 <h3>Background</h3>
 <p>The 1992 constitutional amendment introduced electoral quotas for oppressed castes in village councils (Gram Panchayats), creating a natural experiment in decentralized governance. These reforms aimed to correct historical injustices, but their long-term impact on environmental and economic outcomes remains underexplored.</p>
 
@@ -30,9 +33,6 @@ permalink: /projects/representation-and-conservation
 
 <h3>Inspiration</h3>
 <p>One inspiration for this work is the Chipko movement of the 1970s, led by Adivasi women in the Himalayan foothills. Their resistance to commercial logging and deforestation exemplifies the complex relationship between marginalized communities and forest conservation.</p>
-
-<h3>Download</h3>
-<p><a href="/caste_development_and_forests_draft_onupurba_das.pdf">Download full paper (PDF)</a></p>
 
 <h3>Visuals</h3>
 <div class="row justify-content-sm-center">
