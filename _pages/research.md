@@ -17,6 +17,8 @@ horizontal: false
 
   <p> I continue to explore environmental justice in the context of local environmental governance. Broadly, I care about how environmental, social, and economic systems interact to shape well-being and inequality. Looking ahead, I aim to explore how environmental stressors affect mental health, how institutional norms shape behavior (especially in economics), and how global consumerism drives environmental harm. </p>
 
+<hr style="margin: 2em 0;">
+
 <h3>Current Papers</h3>
 
 <h4>Job Market Paper</h4>
