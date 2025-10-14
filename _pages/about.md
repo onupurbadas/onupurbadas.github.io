@@ -40,7 +40,7 @@ social: false  # includes social icons at the bottom of the page
 <section>
 
   <ol>
-  <li> CV: <i class="fas fa-file-alt"></i> <a href="https://onupurbadas.github.io/assets/pdf/Onupurba_Das_CV_2025.pdf" target="_blank">Download CV</a> </li>
+  <li> <i class="fas fa-file-alt"></i> <a href="https://onupurbadas.github.io/assets/pdf/Onupurba_Das_CV_2025.pdf" target="_blank">Download CV</a> </li>
   <li> To learn more about my research: <a href="https://onupurbadas.github.io/research/">Click Here</a> </li>
   <li> To learn more about my approach to teaching: <a href="https://onupurbadas.github.io/teaching/">Click Here</a></li>
   </ol>
