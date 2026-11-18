@@ -29,6 +29,6 @@ Using India's randomized political reservations in village councils, I study wha
 </div>
 
 #### Teaching
-I teach economics through curiosity, empathy, and a critical lens. As the Econometrics and Data Science Fellow at [Amherst College](https://www.amherst.edu/academiclife/departments/economics), I supported students learning econometrics and data analysis. At UMass's [Institute for Social Science Research](https://www.umass.edu/social-science-research/), I lead Stata workshops and advise researchers and students on quantitative methods.
+I build participatory, inclusive classrooms where students learn by solving problems together. I have taught several courses at UMass Amherst as instructor of record, from environmental economics to first-year seminars, and lead Stata workshops at UMass's [Institute for Social Science Research](https://www.umass.edu/social-science-research/). As the Econometrics and Data Science Fellow at [Amherst College](https://www.amherst.edu/academiclife/departments/economics), I advised senior honors thesis students. Across these settings, I teach economics as a human-centered discipline, connecting theory to the world students see around them.
 
 [Research &rarr;](/research/) &nbsp;&nbsp; [Teaching &rarr;](/teaching/)
