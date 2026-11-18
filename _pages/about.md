@@ -14,7 +14,7 @@ profile:
     University of Massachusetts Amherst
 news: false
 selected_papers: false
-social: true
+social: false
 ---
 
 I'm an applied microeconomist studying how **power and structural inequality shape environmental and economic outcomes**. I received my Ph.D. from UMass Amherst in 2026, advised by [Jamie T. Mullins](https://people.umass.edu/jmullins/index.html), and am currently on the job market.
