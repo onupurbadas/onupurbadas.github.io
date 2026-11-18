@@ -11,20 +11,10 @@ nav_order: 3
 Students learn best when they solve problems alongside me: working through examples together, checking answers with peers, and having room to pause, ask, and think aloud. Whether in a first-year seminar, a statistics section, or a Stata workshop, I aim to make economics and quantitative methods feel approachable to every student.
 </p>
 
-<div class="row text-center mt-4 mb-4">
-  <div class="col-sm-6 mb-3">
-    <div class="card p-3 h-100">
-      <h3 class="mb-1">368</h3>
-      <p class="mb-0">students taught across 18 course sections</p>
-    </div>
-  </div>
-  <div class="col-sm-6 mb-3">
-    <div class="card p-3 h-100">
-      <h3 class="mb-1"><i class="fas fa-award"></i></h3>
-      <p class="mb-0">Vijay Bhagavan Teaching Assistant of Distinction Award, 2020</p>
-    </div>
-  </div>
-</div>
+<p>
+<i class="fas fa-users"></i> 368 students taught across 18 course sections &nbsp;&middot;&nbsp;
+<i class="fas fa-award"></i> Vijay Bhagavan Teaching Assistant of Distinction Award, 2020
+</p>
 
 <h4>Courses Taught (Instructor of Record), UMass Amherst</h4>
 <ul>
