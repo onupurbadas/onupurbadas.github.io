@@ -5,7 +5,7 @@ description:
 img: assets/img/forest.png
 importance: 1
 category: research
-permalink: /projects/3_Project
+permalink: /projects/3_project
 ---
 
 <style>
