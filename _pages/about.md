@@ -27,9 +27,6 @@ Using India's randomized political reservations in village councils, I study wha
 
 [PDF](/assets/pdf/caste_development_and_forests_draft_onupurba_das.pdf) &middot; [Abstract](/research/)
 </div>
-
-<div style="clear: both;"></div>
-
 #### Teaching
 I build participatory, inclusive classrooms where students learn by solving problems together. I have taught several courses at UMass Amherst as instructor of record, from environmental economics to first-year seminars, and lead Stata workshops at UMass's [Institute for Social Science Research](https://www.umass.edu/social-science-research/). As the Econometrics and Data Science Fellow at [Amherst College](https://www.amherst.edu/academiclife/departments/economics), I advised senior honors thesis students. Across these settings, I teach economics as a human-centered discipline, connecting theory to the world students see around them.
 
