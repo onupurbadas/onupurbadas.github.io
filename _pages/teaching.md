@@ -18,13 +18,10 @@ Students learn best when they solve problems alongside me: working through examp
 
 <h4>Courses Taught (Instructor of Record), UMass Amherst</h4>
 <ul>
-  <li><strong>Environmental Economics</strong> (RES-ECON 262, online) &middot; Summer 2019, 2020, 2022<br>
-    <small>Students follow an environmental issue they care about all term, reflecting weekly on how course concepts apply.</small></li>
-  <li><strong>Don&rsquo;t Panic: A Guide to College, Economics, and the World Beyond</strong> (RES-ECON 191, First-Year Seminar) &middot; Fall 2022, 2023<br>
-    <small>Helps first-year students transition to college while exploring inequality and environmental justice through real-world cases, from the Flint water crisis to climate migration.</small></li>
+  <li><strong>Environmental Economics</strong> (RES-ECON 262, online) &middot; Summer 2019, 2020, 2022</li>
+  <li><strong>Don&rsquo;t Panic: A Guide to College, Economics, and the World Beyond</strong> (RES-ECON 191, First-Year Seminar) &middot; Fall 2022, 2023</li>
   <li><strong>Understanding Resource Economics</strong> (RES-ECON 191, First-Year Seminar) &middot; Fall 2019, 2020 (online)</li>
-  <li><strong>Math Camp for Incoming Graduate Students</strong> (prep for ECON 751) &middot; Summer 2023, 2024<br>
-    <small>Two-week intensive bootcamp in equilibrium analysis, matrix algebra, and calculus.</small></li>
+  <li><strong>Math Camp for Incoming Graduate Students</strong> (prep for ECON 751) &middot; Summer 2023, 2024</li>
 </ul>
 
 <h4>Workshops</h4>
