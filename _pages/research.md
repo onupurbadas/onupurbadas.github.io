@@ -21,7 +21,7 @@ My research asks how <strong>power and structural inequality shape environmental
 <p>
   <a href="/assets/pdf/caste_development_and_forests_draft_onupurba_das.pdf" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
   &nbsp;|&nbsp;
-  <a href="/projects/representation-and-conservation">Read more &rarr;</a>
+  <a href="/projects/3_project">Read more &rarr;</a>
 </p>
 <details>
   <summary>Abstract</summary>
