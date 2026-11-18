@@ -27,11 +27,6 @@ Students learn best when they solve problems alongside me: working through examp
     <small>Two-week intensive bootcamp in equilibrium analysis, matrix algebra, and calculus.</small></li>
 </ul>
 
-<h4>Discussion Sections Led</h4>
-<ul>
-  <li><strong>Intermediate Statistics for Business and Economics</strong> (RES-ECON 213) &middot; Spring 2021, Fall 2021 (six sections)</li>
-</ul>
-
 <h4>Workshops</h4>
 <p>Stata Workshop Series, Institute for Social Science Research, UMass Amherst (2023&ndash;2026). Two hands-on workshops per semester, in person and online, with up to 35 participants each.</p>
 <ul>
@@ -53,5 +48,5 @@ Students learn best when they solve problems alongside me: working through examp
 <h4>Teaching Assistant, UMass Amherst</h4>
 <p>
 <strong>Graduate:</strong> Econometric Methods (RES-ECON 702); Probability Theory &amp; Statistical Inference (RES-ECON 701)<br>
-<strong>Undergraduate:</strong> Cost-Benefit Analysis (RES-ECON 471); Decision Analysis; Quantitative Methods in Applied Economics (RES-ECON 313); Environmental Economics (RES-ECON 262); Intermediate Statistics (RES-ECON 213); Computing: Foundations to Frontiers (RES-ECON 112)
+<strong>Undergraduate:</strong> Cost-Benefit Analysis (RES-ECON 471); Decision Analysis; Quantitative Methods in Applied Economics (RES-ECON 313); Environmental Economics (RES-ECON 262); Intermediate Statistics for Business and Economics (RES-ECON 213; led six discussion sections, 2021); Computing: Foundations to Frontiers (RES-ECON 112)
 </p>
