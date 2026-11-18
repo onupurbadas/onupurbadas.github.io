@@ -7,7 +7,7 @@ profile:
   align: right
   image: OD2crop.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Onupurba Das <br> <i class="fas fa-envelope"></i> <a href="mailto:odas@umass.edu">odas@umass.edu</a> <br> <i class="fas fa-file-alt"></i> <a href="https://onupurbadas.github.io/assets/pdf/Onupurba_Das_CV_2025.pdf" target="_blank">Download CV</a> <br> Ph.D. Candidate, Department of Resource Economics <br> University of Massachusetts-Amherst 
+  more_info: Onupurba Das <br> <i class="fas fa-envelope"></i> <a href="mailto:odas@umass.edu">odas@umass.edu</a> <br> <i class="fas fa-file-alt"></i> <a href="https://onupurbadas.github.io/assets/pdf/Onupurba_Das_CV_2026.pdf" target="_blank">Download CV</a> <br> Ph.D. in Economics, 2026 <br> University of Massachusetts Amherst
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
