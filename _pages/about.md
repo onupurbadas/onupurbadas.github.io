@@ -2,15 +2,38 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Applied microeconomist &middot; Environment, Development, Political Economy &middot; <strong>On the 2026&ndash;27 job market</strong>
 profile:
   align: right
   image: OD2crop.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: Onupurba Das <br> <i class="fas fa-envelope"></i> <a href="mailto:odas@umass.edu">odas@umass.edu</a> <br> <i class="fas fa-file-alt"></i> <a href="https://onupurbadas.github.io/assets/pdf/ODas_CV_2026.pdf" target="_blank">Download CV</a> <br> Ph.D. in Economics, 2026 <br> University of Massachusetts Amherst
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+  image_circular: true
+  more_info: >
+    <i class="fas fa-envelope"></i> <a href="mailto:odas@umass.edu">odas@umass.edu</a><br>
+    <i class="fas fa-file-alt"></i> <a href="/assets/pdf/Onupurba_Das_CV_2026.pdf" target="_blank">CV</a><br>
+    Ph.D. in Economics, 2026<br>
+    University of Massachusetts Amherst
+news: false
+selected_papers: false
+social: true
 ---
 
-<section> <p> <strong>When power shifts to historically excluded groups, does environmental governance move from extraction to conservation?</strong> </p> <p> That question drives much of my work. I'm an economist studying <strong>environment, development, and inequality</strong>, with a Ph.D. from UMass Amherst (advised by <a href="https://people.umass.edu/jmullins/index.html">Jamie T. Mullins</a>). I'm on the 2026&ndash;27 job market. </p> </section> <section> <p><strong>What I've found so far</strong></p> <ul> <li><strong>Marginalized leaders face a real trade-off.</strong> In rural India, village councils led by Scheduled Castes and Tribes see more economic activity but less forest cover. <em>(job market paper)</em></li> <li><strong>Women's leadership needs support to last.</strong> Forest cover improves only when a woman chair is paired with a female vice-chair or follows a female chair's earlier term.</li> <li><strong>Heat and air pollution take a toll on mental health.</strong> I also work with public health researchers on hospital-acquired pneumonia in the U.S.</li> </ul> <p> I answer these questions with satellite data, GIS, administrative records, and large surveys. I also teach economics through curiosity, empathy, and a critical lens, and I've worked with researchers and students at <a href="https://www.umass.edu/social-science-research/">UMass's Institute of Social Science Research</a> and <a href="https://www.amherst.edu/academiclife/departments/economics">Amherst College</a>. </p> </section> <section> <ol> <li> <i class="fas fa-file-alt"></i> <a href="https://onupurbadas.github.io/assets/pdf/Onupurba_Das_CV_2026.pdf" target="_blank">Download CV</a> </li> <li> My research: <a href="https://onupurbadas.github.io/research/">Click Here</a> </li> <li> My approach to teaching: <a href="https://onupurbadas.github.io/teaching/">Click Here</a></li> </ol> </section>
+I'm an applied microeconomist studying how **power and structural inequality shape environmental and economic outcomes**. I received my Ph.D. from UMass Amherst in 2026, advised by [Jamie T. Mullins](https://people.umass.edu/jmullins/index.html).
+
+Using India's randomized political reservations in village councils, I study what happens to forests and local economies when women and marginalized caste groups take office. I combine satellite data, nighttime lights, GIS, administrative records, and large surveys.
+
+<div class="card mt-4 mb-4 p-3" markdown="1">
+#### Job Market Paper
+**[Caste Reservations, Development, and Forest Cover in India](/assets/pdf/Das_JMP.pdf)**
+
+When leaders from marginalized castes and tribes take office, local economic activity rises but forest cover falls, a trade-off between development and conservation.
+
+[PDF](/assets/pdf/Das_JMP.pdf) &middot; [Abstract](/research/)
+</div>
+
+#### Other Research
+- **Political Reservations for Women, Implementational Bias, and the Provision of Environmental Public Goods in Rural India** (with Jamie T. Mullins)
+- **Heat, air pollution, and the mental health of older adults**: how adaptive behaviors moderate the effects of rising temperatures and pollution.
+
+**In progress:** how caste and gender intersect in political leadership and shape local forests; and who economics hires, and how that shapes the questions the field asks.
+
+[All research &rarr;](/research/) &nbsp;&nbsp; [Teaching &rarr;](/teaching/)
