@@ -23,11 +23,11 @@ Using India's randomized political reservations in village councils, I study wha
 
 <div class="card mt-4 mb-4 p-3" markdown="1">
 #### Job Market Paper
-**[Caste Reservations, Development, and Forest Cover in India](/assets/pdf/Das_JMP.pdf)**
+**[Caste Reservations, Development, and Forest Cover in India](/assets/pdf/caste_development_and_forests_draft_onupurba_das.pdf)**
 
 When leaders from marginalized castes and tribes take office, local economic activity rises but forest cover falls, a trade-off between development and conservation.
 
-[PDF](/assets/pdf/Das_JMP.pdf) &middot; [Abstract](/research/)
+[PDF](/assets/pdf/caste_development_and_forests_draft_onupurba_das.pdf) &middot; [Abstract](/research/)
 </div>
 
 #### Other Research
